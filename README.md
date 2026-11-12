@@ -1,11 +1,8 @@
+# Hi 👋, I'm Patan Mujastham Sulthana
 
-<h1 align="center">Hi 👋, I'm Patan Mujastham Sulthana</h1>
+### Computer Science Engineering Student | Aspiring Software Developer
 
-<h3 align="center">Computer Science Engineering Student | Aspiring Software Developer</h3>
-
-<p align="center">
-  💻 Learning to Code | Building Projects | Growing Every Day 🚀
-</p>
+💻 Learning to Code | Building Projects | Growing Every Day 🚀
 
 ---
 
@@ -22,8 +19,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java_Basics-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Basics"/>
+  <img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
@@ -32,7 +31,6 @@
 - **AcuVision** — My project showcasing practical development skills.
 - **Intelligent Recommendation Engine** — A recommendation-focused project.
 - **Clinical Trial Attrition Prediction** — A project related to clinical trial attrition.
-- **Portfolio** — My personal portfolio project.
 
 ## 📊 GitHub Stats
 
